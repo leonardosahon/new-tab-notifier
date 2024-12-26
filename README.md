@@ -9,7 +9,7 @@ A Firefox extension that shows toast notifications when new tabs are opened. Cli
 - Clean, modern design
 
 ## Installation
-Install from the Firefox Add-ons store: [Link will be added after publication]
+Install from the Firefox Add-ons store: [Link to Extension](https://addons.mozilla.org/en-US/firefox/addon/new-tab-notifier)
 
 ## Development
 1. Clone this repository
